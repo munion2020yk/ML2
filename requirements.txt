@@ -1,5 +1,6 @@
 streamlit
+FinanceDataReader
 pandas
-yfinance
-prophet
+scikit-learn
+numpy
 plotly
