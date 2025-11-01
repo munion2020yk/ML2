@@ -1,2 +1,2 @@
 # ML2
-koreatech_muchin_learning
+koreatech_machine_learning
