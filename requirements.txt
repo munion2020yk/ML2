@@ -1,9 +1,0 @@
-streamlit
-finance-datareader
-pandas
-scikit-learn
-numpy
-plotly
-torch
-joblib
-warnings
